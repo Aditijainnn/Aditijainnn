@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **aditijain132005@gmail.com**
 
-- 📄 Know about my experiences/ Projects/ skills [https://drive.google.com/file/d/10_x5Ozhcs441Sw2D2KwY2SV4BafuSqn9/view?usp=drivesdk](https://drive.google.com/file/d/10_x5Ozhcs441Sw2D2KwY2SV4BafuSqn9/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
