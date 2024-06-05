@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aditi Jain</h1>
-<h3 align="center">A passinate learner</h3>
+<h1 align="center">Hi 👋, I'm Aditi Jain </h1>
+<h3 align="center">A passinate learner!</h3>
 <imag align="right" alt="coding" width="400" src="https://beautiify.netlify.app/components/backgrounds/mouse-responsive-particle-background/">
 
 - Lindkedin [https://www.linkedin.com/in/aditi-jain-1053b4282/](https://www.linkedin.com/in/aditi-jain-1053b4282/)
 
-- 📫 How to reach me **aditijain132005@gmail.com**
+- 📫 How to reach me **aditijain132005@gmail.com** 
 
 
 <h3 align="left">Connect with me:</h3>
