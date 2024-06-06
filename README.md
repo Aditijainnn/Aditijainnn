@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditi Jain </h1>
+<h1 align="center"> Heyy!!! I'm Aditi<img src="https://skyline.github.com/aditijainnn/2023" width="25px"></h1>
 <h3 align="center">A passinate learner!</h3>
 <imag align="right" alt="coding" width="400" src="https://beautiify.netlify.app/components/backgrounds/mouse-responsive-particle-background/">
 
