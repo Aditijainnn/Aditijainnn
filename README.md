@@ -1,5 +1,7 @@
-<h1 align="center"> Heyy!!! I'm Aditi<img src="https://skyline.github.com/aditijainnn/2023" width="25px"></h1>
-<h3 align="center">A passinate learner!</h3>
+<h1 align="center">Hey! I'm Aditi </h1>
+
+<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500"></h2>
+<h3 align="center">A passinate learner!!</h3>
 <imag align="right" alt="coding" width="400" src="https://beautiify.netlify.app/components/backgrounds/mouse-responsive-particle-background/">
 
 - Lindkedin [https://www.linkedin.com/in/aditi-jain-1053b4282/](https://www.linkedin.com/in/aditi-jain-1053b4282/)
