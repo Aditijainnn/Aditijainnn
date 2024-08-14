@@ -8,23 +8,30 @@
   </a>
 </p>
 
-<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500"></h2>
 <h3 align="center">A passinate learner!!</h3>
-<imag align="right" alt="coding" width="400" src="https://beautiify.netlify.app/components/backgrounds/mouse-responsive-particle-background/">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
 
-- Lindkedin [https://www.linkedin.com/in/aditi-jain-1053b4282/](https://www.linkedin.com/in/aditi-jain-1053b4282/)
-
+- 🔭 &nbsp; I’m a sophomore student doing bachelor's in CSE.
+- 🤝 &nbsp; I’m looking to collaborate.
+- 🌱 &nbsp; I’m currently delving in new technologies; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Aditijainnn?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/aditi-jain-1053b4282/)
+- 📚 &nbsp; When I am free, I love to listen music. 
 - 📫 How to reach me **aditijain132005@gmail.com** 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditijainnn&show_icons=true&locale=en" alt="aditijainnn" /></p>
-<div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditijainnn&show_icons=true&locale=en&layout=compact" alt="aditijainnn" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditijainnn&" alt="aditijainnn" /></p>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditijainnn&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditijainnn&theme=github_dark" />
+
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditijainnn&theme=material-palenight&hide_border=false" alt="Aditijainnn" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditijainnn&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Aditijainnn" /></p>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditijainnn&theme=github_dark"/> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditijainnn&theme=github_dark" />
 </div>
+
 
 
 <br>
