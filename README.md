@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Aditi </h1>
+<h1 align="center">Hey !! I'm Aditi </h1>
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/aditi-jain-1053b4282/"> 
