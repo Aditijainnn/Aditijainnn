@@ -100,7 +100,7 @@
   </tr>
 </table>
 
-<br>
+<hr>
 
 
 <h3 align="left">Connect with me:</h3>
