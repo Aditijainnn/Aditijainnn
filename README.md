@@ -15,7 +15,7 @@
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m a sophomore student doing bachelor's in CSE.
+- 🔭 &nbsp; I’m a pre-final year Btech CSE student.
 - 🤝 &nbsp; I’m looking to collaborate.
 - 🌱 &nbsp; I’m currently delving in new technologies; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Aditijainnn?tab=repositories)
