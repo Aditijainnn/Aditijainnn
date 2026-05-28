@@ -1,5 +1,7 @@
 <h1 align="center">Hey ! I'm Aditi </h1>
-<hr>
+
+<h3 align="center">A CS undergrad </h3>
+
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/aditi-jain-1053b4282/"> 
@@ -10,9 +12,17 @@
   </a>
 </p>
 
-<h3 align="center">A passinate learner!!</h3>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
+<h3 align="center">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Aditijainnn&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Aditijainnn"
+    width="600"
+    height="120"
+  />
+</a>
+  </h3>
+<img align="right" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="360px"/>
+
 ### More About Me:
 
 - 🔭 &nbsp; I’m a pre-final year Btech CSE student.
@@ -35,29 +45,9 @@
 
 
 
-<br>
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditijainnn&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
-</div>
-
-
-## :zap: Open Source Programs 
-
-<table align="">
-  <tr align="">
-      <td style="border-right: 1px solid #eeeeef;" align="center">
-      <a href="center">
-        <img src="https://github.com/ananyag309/ananyag309/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="100" />
-        <br>
-        <strong>GirlScript Summer of Code</strong>
-      </a>
-    </td>
-  </tr>
-</table>
 
 <!-- Achievement in Open Source Contributions Section -->
-<h2 align="center">Achievements in Open Source Contributions</h2>
+<h2 align="center">Open Source achievements</h2>
 
 <table align="center">
   <tr align="center">
@@ -102,10 +92,10 @@
 
 <hr>
 
+<a href="https://holopin.io/@aditijainnn">   <img src="https://holopin.me/aditijainnn" alt="@Aditijainnn Holopin board" /> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditi-jain-1053b4282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditi-jain-1053b4282/" height="30" width="40" /></a>
 </p>
-<a href="https://holopin.io/@aditijainnn">   <img src="https://holopin.me/aditijainnn" alt="@Aditijainnn Holopin board" /> </a>
 
