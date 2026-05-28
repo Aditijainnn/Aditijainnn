@@ -13,7 +13,7 @@
 <h3 align="center">A passinate learner!!</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
-### 🧐 More About Me:
+### More About Me:
 
 - 🔭 &nbsp; I’m a pre-final year Btech CSE student.
 - 🤝 &nbsp; I’m looking to collaborate.
