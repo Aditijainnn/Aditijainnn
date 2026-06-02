@@ -38,7 +38,7 @@
 
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditijainnn&theme=material-palenight&hide_border=false" alt="Aditijainnn" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditijainnn&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Aditijainnn" /></p>
+
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditijainnn&theme=github_dark"/> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditijainnn&theme=github_dark" />
 </div>
